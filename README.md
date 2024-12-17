@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StubblyCamera52
 - 👀 I’m interested in: Computers, Science, Coding, Math, Robotics, Physics, and a lot more that I'm not going to list here
-- 🌱 I’m currently learning: Backend Development
+- 🌱 I’m currently learning: everything
 - 📫 How to reach me: gavanbess@gmail.com
 - 😄 Pronouns: Any
 <!--
