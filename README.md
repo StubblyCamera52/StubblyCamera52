@@ -7,9 +7,9 @@
 - ⚡ Fun fact: 
 --->
 
+![image]()https://github-readme-stats.hackclub.dev/api/wakatime?username=21124&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nord
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StubblyCamera52&theme=radical)
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StubblyCamera52&theme=github_dark)
 
 <!---
 StubblyCamera52/StubblyCamera52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
