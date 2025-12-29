@@ -4,7 +4,7 @@
 - 📫 How to reach me: gavanbess@gmail.com
 - 😄 Pronouns: Any
 # I love: TypeScript 🤤
-# I hate: Java 😡
+# I hate: C++ 😡
 <!--
 - ⚡ Fun fact: 
 --->
